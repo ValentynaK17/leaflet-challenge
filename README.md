@@ -3,7 +3,7 @@ Visualization of USGS Earthquakes data.
 ## Repository Contents 
 ### Leaflet-Part-1-2
   - *index.html*: structure of the webpage. <br>
-    <img src="LeafletEarthquakes_OutputImage.png" width="600"> <br>
+    <img src="LeafletEarthquakes_OutputImage.png" width="900"> <br>
   - **static** directory contains:
     - **css** subdirectory with *style.css* that adjusts style elements of the page. <br>
     - **js** subdirectory with: <br>
